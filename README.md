@@ -12,13 +12,10 @@ autoclicker ringan berbasis python untuk klik otomatis di beberapa posisi layar,
 
 ## Dependensi
 
-- `pyautogui`
-- `keyboard`
-
 instal dengan:
 
 ```bash
-pip install pyautogui keyboard
+pip install -r requirements.txt
 ```
 
 ## Penting
