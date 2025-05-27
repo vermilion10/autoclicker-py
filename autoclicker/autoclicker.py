@@ -5,7 +5,7 @@ import json
 import os
 import keyboard  # butuh install package ini, harus run sbg admin
 
-click_interval = 1.0 #ubah sesuai kebutuhan
+click_interval = 0.1 #ubah sesuai kebutuhan
 positions = []
 running = False
 max_loops = 0
